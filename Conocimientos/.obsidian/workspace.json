@@ -15,27 +15,57 @@
               "state": {
                 "file": "Bienvenido.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Bienvenido"
-            }
+            },
+            "group": "8c54e40f71966da9"
           }
         ]
       },
       {
-        "id": "88b4a3d9d630595c",
+        "id": "e93bd2866b8c7d2b",
         "type": "tabs",
         "children": [
           {
-            "id": "7f6db693bf2cbfcf",
+            "id": "3e0f26ba121f2271",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
+              "type": "localgraph",
+              "state": {
+                "file": "Bienvenido.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
               "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
+              "title": "Gráfico de Bienvenido"
+            },
+            "group": "8c54e40f71966da9"
           }
         ]
       }
@@ -196,10 +226,11 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "7dbc3fbdc68bdc0f",
+  "active": "3e0f26ba121f2271",
   "lastOpenFiles": [
     "cree un enlace.md",
     "Bienvenido.md"
