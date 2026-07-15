@@ -109,7 +109,7 @@ Organización estándar en DDD con 4 capas:
 La regla: **las capas superiores dependen de las inferiores, nunca al revés**. El Domain Layer no sabe nada de la BD.
 
 ## [[DDD/Entities|Entities]] (Entidades)
-
+ 
 Objetos con **identidad propia** que persiste en el tiempo, aunque sus atributos cambien.
 
 ```java
