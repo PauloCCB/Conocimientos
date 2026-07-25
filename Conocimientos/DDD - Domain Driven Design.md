@@ -8,7 +8,7 @@ Creado por **Eric Evans** en su libro *"Domain-Driven Design: Tackling Complexit
 
 ## ¿Por qué existe DDD?
 
-El problema clásico: los desarrolladores hablan de `tablas`, `clases`, `métodos`, y los expertos del negocio hablan de `pedidos`, `clientes`, `facturas`. Ese gap produce software que no resuelve el problema real.
+El problema clásico: los desarrolladores hablan de `tablas`, `clases`, `métodos`, y los expertos del negocio hablan de `pedidos`, `clientes`, `facturas`. Ese gap produce software que no resuelve el problema real. 
 
 DDD propone: **haz que el código refleje el dominio del negocio**, no la base de datos ni el framework.
 
