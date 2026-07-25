@@ -29,7 +29,7 @@ DDD se divide en **Strategic Design** (el QUÉ y DÓNDE) y **Tactical Design** (
 
 Define cómo organizar el sistema a gran escala. Responde: *¿cómo dividimos el problema?*
 
-## [[DDD/Ubiquitous Language|Ubiquitous Language]] (Lenguaje Ubicuo)
+## [[Ubiquitous Language|Ubiquitous Language]] (Lenguaje Ubicuo)
 
 El término más importante de DDD. Es el **vocabulario compartido** entre desarrolladores y expertos del negocio.
 
@@ -39,7 +39,7 @@ El término más importante de DDD. Es el **vocabulario compartido** entre desar
 
 > ⚠️ Si un término tiene dos significados según el contexto, es señal de que necesitas dos Bounded Contexts.
 
-## [[DDD/Bounded Context|Bounded Context]] (Contexto Delimitado)
+## [[Bounded Context|Bounded Context]] (Contexto Delimitado)
 
 **Frontera explícita** dentro de la cual un modelo de dominio es válido y consistente.
 
@@ -57,7 +57,7 @@ Cada uno es un Bounded Context separado con su propio modelo.
 └─────────────────┘    └─────────────────┘    └─────────────────┘
 ```
 
-## [[DDD/Context Map|Context Map]] (Mapa de Contextos)
+## [[Context Map|Context Map]] (Mapa de Contextos)
 
 Diagrama que muestra **todos los Bounded Contexts** y cómo se relacionan entre sí. Es la vista macro del sistema.
 
@@ -86,11 +86,11 @@ En Strategic Design, CI significa mantener el **modelo del Bounded Context unifi
 
 Define cómo modelar el dominio **dentro de un Bounded Context**. Son los patrones concretos de código.
 
-## [[DDD/Layered Architecture|Model-Driven Design]]
+## [[Layered Architecture|Model-Driven Design]]
 
 El código **es** el modelo. No hay un "modelo de negocio" separado del código. Si el dominio cambia, el código cambia, y viceversa. Elimina la duplicación de documentación vs implementación.
 
-## [[DDD/Layered Architecture|Layered Architecture]] (Arquitectura en Capas)
+## [[Layered Architecture|Layered Architecture]] (Arquitectura en Capas)
 
 Organización estándar en DDD con 4 capas:
 
@@ -108,7 +108,7 @@ Organización estándar en DDD con 4 capas:
 
 La regla: **las capas superiores dependen de las inferiores, nunca al revés**. El Domain Layer no sabe nada de la BD.
 
-## [[DDD/Entities|Entities]] (Entidades)
+## [[Entities|Entities]] (Entidades)
  
 Objetos con **identidad propia** que persiste en el tiempo, aunque sus atributos cambien.
 
@@ -124,7 +124,7 @@ class Usuario {
 
 > Si cambia el nombre del usuario, sigue siendo el mismo usuario. La identidad es el ID.
 
-## [[DDD/Value Objects|Value Objects]] (Objetos de Valor)
+## [[Value Objects|Value Objects]] (Objetos de Valor)
 
 Objetos **sin identidad**. Se definen por sus atributos. Dos Value Objects con mismos atributos son iguales.
 
@@ -144,7 +144,7 @@ Características clave:
 
 > Ejemplos: `Email`, `Dinero`, `Coordenadas`, `Rango de fechas`, `Número de teléfono`
 
-## [[DDD/Aggregates|Aggregates]] (Agregados)
+## [[Aggregates|Aggregates]] (Agregados)
 
 **Cluster de objetos** (Entities + Value Objects) que se tratan como una unidad. Tienen una **Aggregate Root** (raíz) que es el único punto de acceso externo.
 
@@ -161,7 +161,7 @@ Reglas:
 - La raíz garantiza las invariantes del agregado
 - Cada agregado es una unidad de consistencia transaccional
 
-## [[DDD/Repositories|Repositories]] (Repositorios)
+## [[Repositories|Repositories]] (Repositorios)
 
 Abstracción para **persistir y recuperar Aggregates**. Simula una colección en memoria, oculta la BD.
 
@@ -204,7 +204,7 @@ class TransferenciaService {
 
 > Si una operación involucra múltiples Aggregates, probablemente es un Domain Service.
 
-## [[DDD/Domain Events|Domain Events]] (Eventos de Dominio)
+## [[Domain Events|Domain Events]] (Eventos de Dominio)
 
 **Hechos que ocurrieron** en el dominio, expresados en tiempo pasado. Notifican que algo importante sucedió.
 
@@ -272,4 +272,4 @@ TACTICAL DESIGN
 - 📖 *Domain-Driven Design* — Eric Evans (el "Blue Book")
 - 📖 *Implementing Domain-Driven Design* — Vaughn Vernon (el "Red Book")
 - 🎥 CodelyTV — DDD en PHP/TypeScript (en español)
-- 🌐 [[DDD/Event Storming|Event Storming]] — técnica para descubrir el dominio
+- 🌐 [[Event Storming|Event Storming]] — técnica para descubrir el dominio

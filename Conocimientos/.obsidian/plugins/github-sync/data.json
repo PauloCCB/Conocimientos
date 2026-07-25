@@ -1,9 +1,0 @@
-{
-  "remoteURL": "git@github-personal:PauloCCB/Conocimientos.git",
-  "gitLocation": "",
-  "syncinterval": 10,
-  "isSyncOnLoad": false,
-  "checkStatusOnLoad": true,
-  "noticeLevel": "ALL",
-  "showSyncSuccessNotice": true
-}
