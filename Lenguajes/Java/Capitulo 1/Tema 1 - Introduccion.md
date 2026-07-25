@@ -7,7 +7,7 @@
 
 ## Tabla de contenidos
 
-1. [¿Qué es Java?](#1-qué-es-java)
+1. [¿Qué es Java?](#1-que-es-java)
 2. [Historia y evolución de Java](#2-historia-y-evolución-de-java)
 3. [Características principales del lenguaje](#3-características-principales-del-lenguaje)
 4. [Arquitectura de Java: JDK, JRE y JVM](#4-arquitectura-de-java-jdk-jre-y-jvm)
