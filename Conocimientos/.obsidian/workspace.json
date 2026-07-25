@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDD - Domain Driven Design.md",
+                "file": "DDD/Context Map.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "DDD - Domain Driven Design"
+              "title": "Context Map"
             }
           }
         ]
@@ -188,12 +188,13 @@
   "active": "7dbc3fbdc68bdc0f",
   "lastOpenFiles": [
     "Bienvenido.md",
+    "DDD/Context Map.md",
     "cree un enlace.md",
     "DDD - Domain Driven Design.md",
+    "DDD/Aggregates.md",
+    "DDD/Domain Events.md",
     "DDD/Value Objects.md",
     "DDD/Entities.md",
-    "DDD/Context Map.md",
-    "DDD/Aggregates.md",
     "FlujoVitaminas.png"
   ]
 }
