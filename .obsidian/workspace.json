@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sin título.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sin título"
+              "title": "README"
             }
           }
         ]
@@ -178,13 +178,28 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "code-files:Create Code File": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f583f17e8288d264",
+  "active": "e15618f78d3af26b",
   "lastOpenFiles": [
     "Frameworks y librerias/Nuevo.md",
     "README.md",
+    "Lenguajes/Java/Capitulo 1/Java_Nivel1_Tema5_Arrays_Strings.md",
+    "Lenguajes/Java/Capitulo 1/Java_Nivel1_Tema4_EstructurasControl.md",
+    "Lenguajes/Java/Capitulo 1/Java_Nivel1_Tema3_Operadores.md",
+    "Lenguajes/Java/Capitulo 1/Java_Nivel1_Tema2_Variables_TiposDatos.md",
+    "Lenguajes/Java/Capitulo 1/Java_Nivel1_Tema1_Introduccion.md",
+    "Arquitecturas/DDD - Domain Driven Design.md",
+    "Lenguajes/Java/Capitulo 1/Java_Nivel1_Tema6_Metodos_Funciones.md",
+    "Lenguajes/Java/Capitulo 1",
+    "Lenguajes/Java",
+    "Sin nombre",
+    "Arquitecturas/DDD/Aggregates.md",
+    "Lenguajes",
+    "Arquitecturas/DDD/Value Objects.md",
     "Sin título.md",
     "Frameworks y librerias",
     "Arquitecturas"

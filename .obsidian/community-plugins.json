@@ -1,3 +1,7 @@
 [
-  "github-sync"
+  "github-sync",
+  "code-files",
+  "obsidian-importer",
+  "obsidian-link-embed",
+  "omnisearch"
 ]
