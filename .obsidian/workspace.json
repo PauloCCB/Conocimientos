@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "257888281793dae7",
+        "id": "5e374b8ddfe730c4",
         "type": "tabs",
         "children": [
           {
-            "id": "3bbc5e8f9d74369e",
+            "id": "451c11bc9690820b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Arquitecturas/DDD - Domain Driven Design.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "DDD - Domain Driven Design"
+            }
+          },
+          {
+            "id": "dfb6f7a8c497a2bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Implementación de precios con Ripley.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Implementación de precios con Ripley"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,39 +199,83 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f583f17e8288d264",
+  "floating": {
+    "id": "9e2ac43763ea006f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "48fe538c0fd9182a",
+        "type": "window",
+        "children": [
+          {
+            "id": "716b7b0abb7f891e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f7aa39d0b36d3ce6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Arquitecturas/DDD - Domain Driven Design.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "DDD - Domain Driven Design"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 705,
+        "y": 59,
+        "width": 1510,
+        "height": 1008,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "dfb6f7a8c497a2bd",
   "lastOpenFiles": [
-    "Lenguajes/Java/Capitulo 1/Tema 1 - Introduccion.md",
-    "Lenguajes/Java/Capitulo 2/Java_Nivel2_Tema12_Manejo_Excepciones.md",
     "Arquitecturas/DDD - Domain Driven Design.md",
-    "Lenguajes/Java/Capitulo 2/Tema11 - Abstraccion - Interfaces.md",
-    "Arquitecturas/DDD/Ubiquitous Language.md",
-    "Arquitecturas/DDD/Value Objects.md",
-    "Lenguajes/Java/Capitulo 2/Tema 10 - Polimorfismo.md",
-    "Lenguajes/Java/Capitulo 2/Tema 9 - Herencia.md",
-    "Lenguajes/Java/Capitulo 2/Tema10 - Polimorfismo.md",
-    "Lenguajes/Java/Capitulo 2/Java_Nivel2_Tema10_Polimorfismo.md",
-    "1..md",
-    "Lenguajes/Java/Capitulo 2/Tema9 - Herencia.md",
-    "Arquitecturas/DDD/Aggregates.md",
-    "Lenguajes/Java/Capitulo 1/Tema 4 - Estructuras Control.md",
-    "Lenguajes/Java/Capitulo 1/Tema 3 - Operadores.md",
-    "Lenguajes/Java/Capitulo 1/Tema 2 - Variables Tipos Datos.md",
-    "Lenguajes/Java/Capitulo 2/Tema 8 - Encapsulamiento.md",
-    "Arquitecturas/DDD/Bounded Context.md",
-    "Lenguajes/Java/Capitulo 2/Tema 7 - Clases - Objetos.md",
-    "Lenguajes/Java/Capitulo 1/Tema 6 - Metodos - Funciones.md",
-    "Lenguajes/Java/Capitulo 1/Tema 5 - Arrays Strings.md",
-    "README.md",
-    "Lenguajes/Java/Capitulo 2/Sin título.md",
-    "Lenguajes/Java/Capitulo 2",
-    "Sin nombre",
-    "Frameworks y librerias/Nuevo.md",
-    "Lenguajes/Java/Capitulo 1",
-    "Lenguajes/Java",
-    "Lenguajes",
-    "Sin título.md",
-    "Frameworks y librerias",
-    "Arquitecturas"
+    "Implementación de precios con Ripley.md",
+    "Apuntes",
+    "Arquitecturas/Clean Architecture.md",
+    "Arquitecturas/Clean Architecture vs Hexagonal Architecture.md",
+    "Arquitecturas/Hexagonal Architecture.md",
+    "Arquitecturas/Hexagonal Architecture",
+    "AI-Agents/gentle-ai/openspec/changes/archive/2026-06-22-declarative-picker-navigation/specs/installer-picker-navigation/spec.md",
+    "AI-Agents/gentle-ai/openspec/changes/archive/2026-06-10-level-neutral-persona-parity/specs/persona-behavior-contract/spec.md",
+    "AI-Agents/gentle-ai/openspec/changes/archive/2026-07-08-engram-protocol-dedup/specs/engram-protocol-injection/spec.md",
+    "AI-Agents/gentle-ai/openspec/changes/archive/2026-07-08-persona-canonical-channel/specs/persona-behavior-contract/spec.md",
+    "AI-Agents/gentle-ai/openspec/changes/archive/2026-06-09-bind-chained-pr-skill-to-orchestrators/specs/sdd-orchestrator-assets/spec.md",
+    "AI-Agents/gentle-ai/openspec/changes/archive/2026-05-18-all-agent-orchestrator-parity/specs/sdd-orchestrator-assets/spec.md",
+    "AI-Agents/gentle-ai/openspec/changes/archive/2026-03-25-gga-powershell-support/specs/gga/spec.md",
+    "AI-Agents/gentle-ai/openspec/changes/archive/2026-05-18-claude-opencode-orchestrator-parity/specs/sdd-orchestrator-assets/spec.md",
+    "AI-Agents/gentle-ai/openspec/changes/update-experience/specs/version-resolution/spec.md",
+    "AI-Agents/gentle-ai/openspec/changes/update-experience/specs/update-prompt/spec.md",
+    "AI-Agents/gentle-ai/openspec/changes/update-experience/specs/update-check-cache/spec.md",
+    "AI-Agents/gentle-ai/openspec/changes/update-experience/specs/upgrade-sync/spec.md",
+    "AI-Agents/gentle-ai/openspec/changes/update-experience/specs/upgrade-channel/spec.md",
+    "AI-Agents/gentle-ai/openspec/changes/update-experience/specs/self-update/spec.md",
+    "AI-Agents/gentle-ai/openspec/changes/update-experience/specs/advisory-manifest/spec.md",
+    "AI-Agents/gentle-ai/openspec/changes/sdd-compact-authority-recovery/specs/review-findings-ledger/spec.md",
+    "AI-Agents/gentle-ai/openspec/changes/pi-optional-codegraph-integration/specs/pi-codegraph-integration/spec.md",
+    "AI-Agents/gentle-ai/openspec/changes/pi-optional-codegraph-integration/reviews/post-apply/review-ledger.md",
+    "AI-Agents/gentle-ai/openspec/changes/archive/2026-06-22-declarative-picker-navigation/specs/installer-picker-navigation",
+    "AI-Agents/gentle-ai/openspec/changes/opencode-sdd-profiles/specs/sdd-profiles/spec.md",
+    "AI-Agents/gentle-ai/openspec/changes/opencode-sdd-profiles/specs/gga/spec.md",
+    "AI-Agents/gentle-ai/openspec/changes/archive/2026-06-10-level-neutral-persona-parity/specs/persona-behavior-contract",
+    "AI-Agents/gentle-ai/openspec/changes/archive/2026-07-08-persona-canonical-channel/specs/persona-behavior-contract",
+    "AI-Agents/gentle-ai/openspec/changes/archive/2026-07-08-engram-protocol-dedup/specs/engram-protocol-injection",
+    "AI-Agents/gentle-ai/openspec/changes/archive/2026-03-25-gga-powershell-support/specs/gga",
+    "AI-Agents/gentle-ai/openspec/changes/archive/2026-05-18-claude-opencode-orchestrator-parity/specs/sdd-orchestrator-assets",
+    "AI-Agents/gentle-ai/openspec/changes/archive/2026-06-09-bind-chained-pr-skill-to-orchestrators/specs/sdd-orchestrator-assets",
+    "AI-Agents/gentle-ai/openspec/changes/archive/2026-05-18-all-agent-orchestrator-parity/specs/sdd-orchestrator-assets",
+    "AI-Agents/gentle-ai/docs/assets/brand/gentle-ai-logo.png",
+    "AI-Agents/gentle-ai/docs/assets/brand/gentle-ai-banner.png"
   ]
 }
