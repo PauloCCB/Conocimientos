@@ -11,10 +11,14 @@
             "id": "3bbc5e8f9d74369e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Lenguajes/Java/Capitulo 3/Tema16 - IO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tema16 - IO"
             }
           }
         ]
@@ -180,12 +184,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f583f17e8288d264",
+  "active": "3bbc5e8f9d74369e",
   "lastOpenFiles": [
+    "README.md",
+    "Lenguajes/Java/Capitulo 3/Tema15 - Streams_Lambdas.md",
+    "Lenguajes/Java/Capitulo 3/Tema16 - IO.md",
+    "Lenguajes/Java/Capitulo 3/Tema 14 - Genericos.md",
+    "Lenguajes/Java/Capitulo 3/Tema 13 - Colecciones.md",
+    "Lenguajes/Java/Capitulo 2/Tema 12 - Manejo - Excepciones.md",
+    "Lenguajes/Java/Capitulo 2/Tema 11 - Abstraccion - Interfaces.md",
+    "Lenguajes/Java/Capitulo 1/Tema 4 - Estructuras Control.md",
     "Lenguajes/Java/Capitulo 1/Tema 1 - Introduccion.md",
-    "Lenguajes/Java/Capitulo 2/Java_Nivel2_Tema12_Manejo_Excepciones.md",
+    "Lenguajes/Java/Capitulo 3",
+    "Lenguajes/Java/Nueva carpeta",
+    "Lenguajes/Java/Capitulo 2/Tema 7 - Clases - Objetos.md",
     "Arquitecturas/DDD - Domain Driven Design.md",
-    "Lenguajes/Java/Capitulo 2/Tema11 - Abstraccion - Interfaces.md",
     "Arquitecturas/DDD/Ubiquitous Language.md",
     "Arquitecturas/DDD/Value Objects.md",
     "Lenguajes/Java/Capitulo 2/Tema 10 - Polimorfismo.md",
@@ -195,23 +208,17 @@
     "1..md",
     "Lenguajes/Java/Capitulo 2/Tema9 - Herencia.md",
     "Arquitecturas/DDD/Aggregates.md",
-    "Lenguajes/Java/Capitulo 1/Tema 4 - Estructuras Control.md",
     "Lenguajes/Java/Capitulo 1/Tema 3 - Operadores.md",
     "Lenguajes/Java/Capitulo 1/Tema 2 - Variables Tipos Datos.md",
     "Lenguajes/Java/Capitulo 2/Tema 8 - Encapsulamiento.md",
     "Arquitecturas/DDD/Bounded Context.md",
-    "Lenguajes/Java/Capitulo 2/Tema 7 - Clases - Objetos.md",
     "Lenguajes/Java/Capitulo 1/Tema 6 - Metodos - Funciones.md",
     "Lenguajes/Java/Capitulo 1/Tema 5 - Arrays Strings.md",
-    "README.md",
-    "Lenguajes/Java/Capitulo 2/Sin título.md",
     "Lenguajes/Java/Capitulo 2",
     "Sin nombre",
-    "Frameworks y librerias/Nuevo.md",
     "Lenguajes/Java/Capitulo 1",
     "Lenguajes/Java",
     "Lenguajes",
-    "Sin título.md",
     "Frameworks y librerias",
     "Arquitecturas"
   ]
