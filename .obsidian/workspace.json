@@ -215,8 +215,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2d8f3b9cf29d9a0d",
+  "active": "f583f17e8288d264",
   "lastOpenFiles": [
+    "Sin título.md",
+    "Arquitecturas/DDD - Domain Driven Design.md",
+    "Lenguajes/Java/Capitulo 3/Tema16 - IO.md",
+    "Lenguajes/Java/Capitulo 3/Tema15 - Streams_Lambdas.md",
+    "Lenguajes/Java/Capitulo 3/Tema 14 - Genericos.md",
+    "Lenguajes/Java/Capitulo 3/Tema 13 - Colecciones.md",
+    "Lenguajes/Java/Capitulo 3",
+    "Lenguajes/Java/Capitulo 2/Tema 12 - Manejo - Excepciones.md",
+    "Lenguajes/Java/Capitulo 2/Tema 11 - Abstraccion - Interfaces.md",
     "Arquitecturas/DDD/Event Storming.md",
     "Arquitecturas/DDD/Ubiquitous Language.md",
     "Arquitecturas/DDD/Context Map.md",
@@ -224,7 +233,6 @@
     "Implementación de precios con Ripley.md",
     "Eliminación de columnas.md",
     "README.md",
-    "Arquitecturas/DDD - Domain Driven Design.md",
     "Apuntes",
     "Arquitecturas/Clean Architecture.md",
     "Arquitecturas/Clean Architecture vs Hexagonal Architecture.md",
@@ -238,13 +246,6 @@
     "AI-Agents/gentle-ai/openspec/changes/archive/2026-05-18-all-agent-orchestrator-parity/specs/sdd-orchestrator-assets/spec.md",
     "AI-Agents/gentle-ai/openspec/changes/archive/2026-03-25-gga-powershell-support/specs/gga/spec.md",
     "AI-Agents/gentle-ai/openspec/changes/archive/2026-05-18-claude-opencode-orchestrator-parity/specs/sdd-orchestrator-assets/spec.md",
-    "AI-Agents/gentle-ai/openspec/changes/update-experience/specs/version-resolution/spec.md",
-    "AI-Agents/gentle-ai/openspec/changes/update-experience/specs/update-prompt/spec.md",
-    "AI-Agents/gentle-ai/openspec/changes/update-experience/specs/update-check-cache/spec.md",
-    "AI-Agents/gentle-ai/openspec/changes/update-experience/specs/upgrade-sync/spec.md",
-    "AI-Agents/gentle-ai/openspec/changes/update-experience/specs/upgrade-channel/spec.md",
-    "AI-Agents/gentle-ai/openspec/changes/update-experience/specs/self-update/spec.md",
-    "AI-Agents/gentle-ai/openspec/changes/update-experience/specs/advisory-manifest/spec.md",
     "AI-Agents/gentle-ai/openspec/changes/archive/2026-06-22-declarative-picker-navigation/specs/installer-picker-navigation",
     "AI-Agents/gentle-ai/openspec/changes/archive/2026-06-10-level-neutral-persona-parity/specs/persona-behavior-contract",
     "AI-Agents/gentle-ai/openspec/changes/archive/2026-07-08-persona-canonical-channel/specs/persona-behavior-contract",
@@ -252,7 +253,6 @@
     "AI-Agents/gentle-ai/openspec/changes/archive/2026-03-25-gga-powershell-support/specs/gga",
     "AI-Agents/gentle-ai/openspec/changes/archive/2026-05-18-claude-opencode-orchestrator-parity/specs/sdd-orchestrator-assets",
     "AI-Agents/gentle-ai/openspec/changes/archive/2026-06-09-bind-chained-pr-skill-to-orchestrators/specs/sdd-orchestrator-assets",
-    "AI-Agents/gentle-ai/openspec/changes/archive/2026-05-18-all-agent-orchestrator-parity/specs/sdd-orchestrator-assets",
     "AI-Agents/gentle-ai/docs/assets/brand/gentle-ai-logo.png",
     "AI-Agents/gentle-ai/docs/assets/brand/gentle-ai-banner.png"
   ]
