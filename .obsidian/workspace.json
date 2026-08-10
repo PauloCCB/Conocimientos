@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquitecturas/DDD - Domain Driven Design.md",
-                "mode": "source",
+                "file": "Arquitecturas/Hexagonal Architecture/Adapters.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "DDD - Domain Driven Design"
-            }
-          },
-          {
-            "id": "dfb6f7a8c497a2bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Implementación de precios con Ripley.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Implementación de precios con Ripley"
-            }
-          },
-          {
-            "id": "2d8f3b9cf29d9a0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arquitecturas/DDD - Domain Driven Design.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DDD - Domain Driven Design"
+              "title": "Adapters"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,8 +186,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f583f17e8288d264",
+  "active": "451c11bc9690820b",
   "lastOpenFiles": [
+    "Arquitecturas/SOLID/D - Dependency Inversion.md",
+    "Arquitecturas/SOLID/Ejercicios.md",
+    "Arquitecturas/SOLID/I - Interface Segregation.md",
+    "Arquitecturas/SOLID/L - Liskov Substitution.md",
+    "Arquitecturas/SOLID/O - Open Closed.md",
+    "Arquitecturas/SOLID/S - Single Responsibility.md",
+    "Arquitecturas/SOLID/SOLID.md",
+    "Arquitecturas/SOLID",
+    "Arquitecturas/Hexagonal Architecture.md",
+    "Arquitecturas/DDD/Entities.md",
+    "Arquitecturas/DDD - Domain Driven Design.md",
     "Arquitecturas/Hexagonal Architecture/Ejercicios.md",
     "Conceptos/SDLC vs CI-CD.md",
     "Conceptos/SDLC/SDLC.md",
@@ -239,20 +221,9 @@
     "Arquitecturas/Clean Architecture/Entities.md",
     "Arquitecturas/Clean Architecture",
     "Arquitecturas/Hexagonal Architecture/Request Flow.md",
-    "Arquitecturas/Hexagonal Architecture/Anti-Patterns.md",
-    "Arquitecturas/Hexagonal Architecture/Package Structure.md",
-    "Arquitecturas/Hexagonal Architecture/Testing.md",
-    "Arquitecturas/Hexagonal Architecture/Dependency Rule.md",
-    "Arquitecturas/Hexagonal Architecture/Adapters.md",
-    "Arquitecturas/Hexagonal Architecture/Ports.md",
-    "Sin título.md",
-    "Arquitecturas/DDD - Domain Driven Design.md",
-    "Lenguajes/Java/Capitulo 3/Tema16 - IO.md",
-    "Lenguajes/Java/Capitulo 3/Tema15 - Streams_Lambdas.md",
     "Lenguajes/Java/Capitulo 3",
     "Apuntes",
     "Arquitecturas/Hexagonal Architecture",
-    "AI-Agents/gentle-ai/openspec/changes/archive/2026-06-22-declarative-picker-navigation/specs/installer-picker-navigation",
     "AI-Agents/gentle-ai/docs/assets/brand/gentle-ai-logo.png",
     "AI-Agents/gentle-ai/docs/assets/brand/gentle-ai-banner.png"
   ]
