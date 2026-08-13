@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a11e86ab517bb769",
+        "id": "4c58895647dc2288",
         "type": "tabs",
         "children": [
           {
-            "id": "630a47ac99a4ff55",
+            "id": "8afcd58c147943d9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Arquitecturas/DDD - Domain Driven Design.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "DDD - Domain Driven Design"
             }
           }
         ]
@@ -37,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -74,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3eaad0541d5439e0",
@@ -180,15 +187,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "630a47ac99a4ff55",
+  "active": "8afcd58c147943d9",
   "lastOpenFiles": [
+    "DevOps/Sin título.md",
+    "Arquitecturas/DDD - Domain Driven Design.md",
+    "DevOps",
+    "Arquitecturas/Clean Architecture.md",
+    "Arquitecturas/Clean Architecture vs Hexagonal Architecture.md",
+    "Arquitecturas/Hexagonal Architecture.md",
     "Lenguajes/Java/Capitulo 3/Tema16 - IO.md",
     "Sin título.md",
     "Implementación de precios con Ripley.md",
     "Eliminación de columnas.md",
-    "Arquitecturas/Hexagonal Architecture.md",
-    "Arquitecturas/Clean Architecture.md",
-    "Arquitecturas/Clean Architecture vs Hexagonal Architecture.md",
     "AI-Agents/prowler",
     "AI-Agents/gentle-ai",
     "AI-Agents/agent-teams-lite",
@@ -204,7 +214,6 @@
     "Lenguajes/Java/Capitulo 3",
     "Lenguajes/Java/Nueva carpeta",
     "Lenguajes/Java/Capitulo 2/Tema 7 - Clases - Objetos.md",
-    "Arquitecturas/DDD - Domain Driven Design.md",
     "Arquitecturas/DDD/Ubiquitous Language.md",
     "Arquitecturas/DDD/Value Objects.md",
     "Lenguajes/Java/Capitulo 2/Tema 10 - Polimorfismo.md",
@@ -213,9 +222,7 @@
     "Lenguajes/Java/Capitulo 2/Java_Nivel2_Tema10_Polimorfismo.md",
     "1..md",
     "Lenguajes/Java/Capitulo 2/Tema9 - Herencia.md",
-    "Arquitecturas/DDD/Aggregates.md",
     "Lenguajes/Java/Capitulo 2",
-    "Sin nombre",
     "Lenguajes/Java/Capitulo 1",
     "Lenguajes/Java"
   ]
